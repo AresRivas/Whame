@@ -1,0 +1,28 @@
+1--> Arduino Nano Every
+
+1--> Accelerometer MPU6050
+
+1--> Bluetooth module Roving Networks RN42
+
+1--> 1200 mAh LiPo Battery:
+
+https://tienda.bricogeek.com/baterias-lipo/1135-bateria-lipo-1200mah-37v.html
+
+1--> Power Booster & battery charger MP2636: 
+
+https://tienda.bricogeek.com/convertidores-de-voltaje/1031-power-booster-mp2636-2a.html?vt_product=1031&from=UpSell&utm_campaign=Upsell%252520recommendation%252520for%252520prod&utm_medium=email&vt_campaign=1003027&utm_content=tpl&vt_content=10003986&utm_source=merchandising 
+
+1--> Switch:
+
+https://tienda.bricogeek.com/interruptores/912-mini-interruptor-para-prototipado.html?search_query=interruptor&results=85
+
+1--> FTDI Cable:
+
+https://www.mouser.es/ProductDetail/FTDI/UMFT234XD-WE?qs=NVftvxkm2thpgtLLfAnXlQ%3D%3D&mgh=1&vip=1&gclid=CjwKCAiAgvKQBhBbEiwAaPQw3GzfvKY3mOF5xV7HtKQ8gYinj7j07jHQ4Bevrypl4dgma1zFzkcEYRoC230QAvD_BwE
+
+
+1--> Resistor ? 10k - 1/4W
+1--> Resistor ? 22k - 1/4W  
+
+
+Notes: The FTDI cable is optional for more confortable configuring the RN42 module, but it can be configured connecting it to the Arduino Nano hardware serial port (pins D0 and D1) with a simple circuit. 
